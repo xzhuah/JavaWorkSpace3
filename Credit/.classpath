@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="D:/科大学习/自学区/SQL Server 入口/数据库驱动包/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Xinyu/Desktop/‏/UROP jar/httpcomponents-client-4.5.1-bin/httpcomponents-client-4.5.1/lib/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Xinyu/Desktop/‏/UROP jar/httpcomponents-client-4.5.1-bin/httpcomponents-client-4.5.1/lib/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/java包/Json/java-json-schema.jar/java-json-schema.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
